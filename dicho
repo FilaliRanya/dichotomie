@@ -1,0 +1,10 @@
+def dichotomie (f,a,b,tol):
+L=[]
+while(b-a>tol):
+c=(a+b)SUR2
+L.append(c)
+if  f(a)ETOILEF(C)<0:
+B=C
+ELSE:
+A=C
+RETURN L
